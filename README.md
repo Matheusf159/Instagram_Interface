@@ -8,11 +8,11 @@ Clonando interface do Instagram (+ SCROLL ANIMADO) com base no vídeo da Rockets
 React-Native <br/>
 
 <h2>:wrench: Sobre as Dependências:</h2>
-yarn install
+yarn install <br/>
 yarn add react-native-gesture-handler react-native-reanimated <br/>
 yarn add styled-components <br/>
 
 <h2>Para rodar a API</h2>
-yarn add json-server -D
-executar a api: yarn json-server server.json
+yarn add json-server -D <br/>
+executar a api: yarn json-server server.json <br/>
 configurar o adb: adb reverse tcp:3000 tcp:3000
